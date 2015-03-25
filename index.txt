@@ -104,7 +104,7 @@ Technology:
 
 ## Data source
 
-1. The Data Analysis team had the responsibility to analyze online (real-time) the data obtained from experiments performed at the $latex \gamma$-spectroscopy Group at GSI. 
+1. The Data Analysis team had the responsibility to analyze online (real-time) the data obtained from experiments performed at the -spectroscopy Group at GSI. 
 2. The data was coming from many different type of detectors connected via analog-digital signal (ADC) and time-digital (TDC) converters. The full experiment contained:
  * 12 VME crates, 24 modules, 64 bus signals. Total of > 18000 individual signals.
  * Total data collected about of 1TB/day of experiment.
@@ -174,13 +174,7 @@ $$
 Noise reduction (Filtering), parametrization reduction (random forest).
 * Takes more than 200 parameters!
 
-```{r echo=FALSE, fig.width=15}
- sim <- read.table("./ch0_sim.dat")
- exp <- read.table("./ch1_expt.dat")
-plot(sim, type = "s", ylim=c(-1000,100), xlim=c(0,4100), xlab = ' ', ylab=' ', col='red')
-lines(exp, type = "s", col='blue')
-
-```
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png) 
 
 ---&twocol
 
@@ -190,19 +184,10 @@ lines(exp, type = "s", col='blue')
 Histograming, Gaussian fitting.
 
 ***=left
-```{r echo=FALSE}
-library(ggplot2)
-data1 <- read.table("./720.dat", sep = " ")
-data1 <- data1[,c(1,2)]
-colnames(data1) <- c("bin", "value")
-plot(data1$value, type = "s", ylim=c(3,1050), xlim=c(38,1000), xlab = 'Energy', ylab='Events')
-
-```
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
 ***=right
-```{r echo=FALSE}
-plot(data1$value, type = "s", ylim=c(3,1050), xlim=c(735,755), xlab = 'Energy', ylab='Events')
-```
+![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
 ---
 

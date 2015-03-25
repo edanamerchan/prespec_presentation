@@ -1,0 +1,688 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdfetex 2014.5.25)  24 MAR 2015 23:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\nonstopmode \input /Users/edana/Dropbox/Presentation/Project_EM/index.txt
+(/Users/edana/Dropbox/Presentation/Project_EM/index.txt
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:5: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.5 output: pdf_
+                document
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:14: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.14 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:23: You can't use `macro
+ parameter character #' in vertical mode.
+l.23 #
+      # Outlock
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:23: You can't use `macro
+ parameter character #' in vertical mode.
+l.23 ##
+        Outlock
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:37: You can't use `macro
+ parameter character #' in horizontal mode.
+l.37 --- .class #
+                 id
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:39: You can't use `macro
+ parameter character #' in vertical mode.
+l.39 #
+      # GSI (Heavy Ion Research Institute)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:39: You can't use `macro
+ parameter character #' in vertical mode.
+l.39 ##
+        GSI (Heavy Ion Research Institute)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:41: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.41 ![width](assets/img/GSI_
+                             FAIR.jpg)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:42: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.42 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:43: Misplaced alignment 
+tab character &.
+l.43 --- &
+          twocol
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:45: You can't use `macro
+ parameter character #' in vertical mode.
+l.45 #
+      # Prespec project
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:45: You can't use `macro
+ parameter character #' in vertical mode.
+l.45 ##
+        Prespec project
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:51: You can't use `macro
+ parameter character #' in vertical mode.
+l.51 #
+      ## Tasks:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:51: You can't use `macro
+ parameter character #' in vertical mode.
+l.51 ##
+       # Tasks:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:51: You can't use `macro
+ parameter character #' in vertical mode.
+l.51 ###
+         Tasks:
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:60: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.60 ...max=width:340px;' src='assets/img/Prespec_
+                                                  photo.jpg' />
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:62: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.62 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (82.01721pt too wide) in paragraph at lines 59--62
+[]\tenrm <div style='text-align: cen-ter;'> <img style='max-height:340px;max=wi
+dth:340px;' src='assets/img/Prespec$[]\teni hoto:jpg[]= ><|
+
+\hbox(7.51782+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm <
+.\tenrm d
+.\tenrm i
+.\tenrm v
+.etc.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:64: Misplaced alignment 
+tab character &.
+l.64 --- &
+          twocol2
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:66: You can't use `macro
+ parameter character #' in vertical mode.
+l.66 #
+      # Teams and technology.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:66: You can't use `macro
+ parameter character #' in vertical mode.
+l.66 ##
+        Teams and technology.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:69: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.69 ![width](assets/img/Prespec_
+                                 org.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:70: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.70 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:78: Misplaced alignment 
+tab character &.
+l.78 Analysis &
+                Online:
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:93: You can't use `macro
+ parameter character #' in vertical mode.
+l.93 #
+      # Requirements
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:93: You can't use `macro
+ parameter character #' in vertical mode.
+l.93 ##
+        Requirements
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:105: You can't use `macr
+o parameter character #' in vertical mode.
+l.105 #
+       # Data source
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:105: You can't use `macr
+o parameter character #' in vertical mode.
+l.105 ##
+         Data source
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:119: You can't use `macr
+o parameter character #' in vertical mode.
+l.119 #
+       # Software Structure
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:119: You can't use `macr
+o parameter character #' in vertical mode.
+l.119 ##
+         Software Structure
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:121: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.121 ![width](assets/img/prespec_
+                                  scheme2.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:122: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.122 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:125: You can't use `macr
+o parameter character #' in vertical mode.
+l.125 #
+       # Analysis
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:125: You can't use `macr
+o parameter character #' in vertical mode.
+l.125 ##
+         Analysis
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (19.6581pt too wide) in paragraph at lines 132--135
+[]\tenrm <div style='text-align: left;'> <img style='max-height:300px;max=width
+:300px;' src='assets/img/GRETINA-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm <
+.\tenrm d
+.\tenrm i
+.\tenrm v
+.etc.
+
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:138: You can't use `macr
+o parameter character #' in vertical mode.
+l.138 #
+       # Gamma 3D detection
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:138: You can't use `macr
+o parameter character #' in vertical mode.
+l.138 ##
+         Gamma 3D detection
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:141: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.141 ![width](assets/img/Signal_
+                                 position.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:142: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.142 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:145: You can't use `macr
+o parameter character #' in vertical mode.
+l.145 #
+       # Gamma interaction
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:145: You can't use `macr
+o parameter character #' in vertical mode.
+l.145 ##
+         Gamma interaction
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:150: Undefined control s
+equence.
+l.150 E_{\gamma}=\frac
+                      {E_{\gamma_0}}{1-\cos{\theta}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:155: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.155 ...;max=width:300px;' src='assets/img/Gamma_
+                                                  pattern.png' />
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:157: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.157 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (80.64864pt too wide) in paragraph at lines 154--157
+[]\tenrm <div style='text-align: left;'> <img style='max-height:300px;max=width
+:300px;' src='assets/img/Gamma$[]\teni attern:png[]= ><|
+
+\hbox(7.51782+2.86108)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm <
+.\tenrm d
+.\tenrm i
+.\tenrm v
+.etc.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:158: Misplaced alignment
+ tab character &.
+l.158 ---&
+          twocol3
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:160: You can't use `macr
+o parameter character #' in vertical mode.
+l.160 #
+       # Gamma 3D mapping
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:160: You can't use `macr
+o parameter character #' in vertical mode.
+l.160 ##
+         Gamma 3D mapping
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:163: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.163 ![width](assets/img/Interaction_
+                                      map.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:164: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.164 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:172: You can't use `macr
+o parameter character #' in vertical mode.
+l.172 #
+       # Signal Processing
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:172: You can't use `macr
+o parameter character #' in vertical mode.
+l.172 ##
+         Signal Processing
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:179: Misplaced alignment
+ tab character &.
+l.179 ---&
+          twocol
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:181: You can't use `macr
+o parameter character #' in vertical mode.
+l.181 #
+       # Gamma Spectroscopy
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:181: You can't use `macr
+o parameter character #' in vertical mode.
+l.181 ##
+         Gamma Spectroscopy
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:194: You can't use `macr
+o parameter character #' in vertical mode.
+l.194 #
+       # Visualization
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:194: You can't use `macr
+o parameter character #' in vertical mode.
+l.194 ##
+         Visualization
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:203: You can't use `macr
+o parameter character #' in vertical mode.
+l.203 #
+       ## Performance challenges.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:203: You can't use `macr
+o parameter character #' in vertical mode.
+l.203 ##
+        # Performance challenges.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:203: You can't use `macr
+o parameter character #' in vertical mode.
+l.203 ###
+          Performance challenges.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:209: You can't use `macr
+o parameter character #' in vertical mode.
+l.209 #
+       # User interface
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:209: You can't use `macr
+o parameter character #' in vertical mode.
+l.209 ##
+         User interface
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:211: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.211 ![width](assets/img/prespec_
+                                  Go4.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:212: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.212 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:215: You can't use `macr
+o parameter character #' in vertical mode.
+l.215 #
+       # What if?
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:215: You can't use `macr
+o parameter character #' in vertical mode.
+l.215 ##
+         What if?
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:222: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   _
+l.222 ![width](assets/img/prespec_
+                                  scheme3.png)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:223: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.223 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:226: You can't use `macr
+o parameter character #' in vertical mode.
+l.226 #
+       # Thank you.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+/Users/edana/Dropbox/Presentation/Project_EM/index.txt:226: You can't use `macr
+o parameter character #' in vertical mode.
+l.226 ##
+         Thank you.
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+)
+! Emergency stop.
+<*> ...a/Dropbox/Presentation/Project_EM/index.txt
+                                                  
+*** (job aborted, no legal \end found)
+
+!  ==> Fatal error occurred, no output PDF file produced!

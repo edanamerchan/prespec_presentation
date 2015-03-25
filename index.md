@@ -174,7 +174,7 @@ $$
 Noise reduction (Filtering), parametrization reduction (random forest).
 * Takes more than 200 parameters!
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png) 
 
 ---&twocol
 
@@ -184,10 +184,10 @@ Noise reduction (Filtering), parametrization reduction (random forest).
 Histograming, Gaussian fitting.
 
 ***=left
-![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 
 ***=right
-![plot of chunk unnamed-chunk-3](assets/fig/unnamed-chunk-3.png) 
+![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
 
 ---
 
@@ -225,4 +225,5 @@ With some more computer infrastructure:
 
 ## Thank you.
 
+---
 
